@@ -1,0 +1,8 @@
+name=input("Enter your name: ")
+usn=input("Enter your USN: ")
+email=input("Enter your email: ")
+mobile=input("Enter your mobile number: ")
+print("Name:", name)
+print("USN:", usn)
+print("Email:", email)
+print("Mobile Number:", mobile)
